@@ -28,6 +28,4 @@ public class HelloSeleniumTest {
     public static void cleanup() {
         chromeDriver.close();
     }
-
-
 }
